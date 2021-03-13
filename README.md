@@ -1,18 +1,16 @@
-# Detecting Images in an AR Experience
+# BIM-SIS IOS APP
 
-React to known 2D images in the user's environment, and use their positions to place AR content.
+This IOS app is still under development, the codes will keep being updated.
 
-## Overview
+## Project BIM-SIS
 
-Many AR experiences can be enhanced by using known features of the user's environment to trigger the appearance of virtual content. For example, a museum app might show a virtual curator when the user points their device at a painting, or a board game might place virtual pieces when the player points their device at a game board. In iOS 11.3 and later, you can add such features to your AR experience by enabling image detection in ARKit: Your app provides known 2D images, and ARKit tells you when and where those images are detected during an AR session.
+On the basis of a damage identification with acceptable costs BIM-SIS enables a first classification of the damages with the help of an extensive database of damages and the knowledge of the renovation effort required from both literature and first hand experience. The overall objectives for the renovation strategy are as follows: To virtually combine the different data of the damage like plans and pictures, in a BIM-Model, so as to be able to assess it with knowledge based methods and develop a transparent and cost solid renovation method. 
+(Project website: https://www.bim-sis.de/)
 
-This example app looks for any of the several reference images included in the app's asset catalog. When ARKit detects one of those images, the app shows a message identifying the detected image and a brief animation showing its position in the scene.
+## App architecture
 
-- Important: The images included with this sample are designed to fit the screen sizes of various Apple devices. To try the app using these images, choose an image that fits any spare device you have, and display the image full screen on that device. Then run the sample code project on a different device, and point its camera at the device displaying the image. Alternatively, you can add your own images; see the steps in Provide Your Own Reference Images, below.
+![meth](https://user-images.githubusercontent.com/33033138/111023480-907a2d00-83d9-11eb-8ec6-6b304272be7a.png)
 
-- Note: ARKit requires an iOS device with an A9 (or later) processor. ARKit isn't available in iOS Simulator.
-
-## Enable Image Detection
 
 Image detection is an add-on feature for world-tracking AR sessions. (For more details on world tracking, see [Building your first AR Experience][1].) 
 
