@@ -12,7 +12,16 @@
 		3929C4911E89EC2C00E00B60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3929C48F1E89EC2C00E00B60 /* Main.storyboard */; };
 		3929C4931E89EC2C00E00B60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3929C4921E89EC2C00E00B60 /* Assets.xcassets */; };
 		39D8DC1B1E8ADAE600386B05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39D8DC1A1E8ADAE600386B05 /* LaunchScreen.storyboard */; };
-		C41366B91EB80DD400EC054A /* StatusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41366B81EB80DD400EC054A /* StatusViewController.swift */; };
+		9F149E2925C0590A00F0BBD8 /* TableViewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F149E2625C0590A00F0BBD8 /* TableViewer.swift */; };
+		9F149E2A25C0590A00F0BBD8 /* XmlParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F149E2725C0590A00F0BBD8 /* XmlParser.swift */; };
+		9F149E2B25C0590A00F0BBD8 /* GithubTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F149E2825C0590A00F0BBD8 /* GithubTool.swift */; };
+		9F149E2F25C0591500F0BBD8 /* XmlCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F149E2E25C0591500F0BBD8 /* XmlCell.swift */; };
+		9F77040725889F4200EB1D38 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F77040625889F4200EB1D38 /* HomeViewController.swift */; };
+		9F77040A25889FDD00EB1D38 /* Input1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F77040925889FDD00EB1D38 /* Input1ViewController.swift */; };
+		9FDEB3A025C160D300539B96 /* XmlpParser2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FDEB39F25C160D300539B96 /* XmlpParser2.swift */; };
+		9FE7178B257E9668005279D5 /* ShowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE7178A257E9668005279D5 /* ShowViewController.swift */; };
+		9FEA3A32257709DE00DA36AA /* ScanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FEA3A31257709DE00DA36AA /* ScanViewController.swift */; };
+		9FF883D825C563A200E97D7F /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FF883D725C563A200E97D7F /* art.scnassets */; };
 		C8C12A711F29277B00B011FE /* ViewController+ARSessionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8C12A701F29277B00B011FE /* ViewController+ARSessionDelegate.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,9 +34,18 @@
 		3929C4921E89EC2C00E00B60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3929C4971E89EC2C00E00B60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		39D8DC1A1E8ADAE600386B05 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
-		B8AE7549A2472F11C9D46447 /* SampleCode.xcconfig */ = {isa = PBXFileReference; name = SampleCode.xcconfig; path = Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
-		C17E12BC981B62B3753B451B /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE.txt; sourceTree = "<group>"; };
-		C41366B81EB80DD400EC054A /* StatusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusViewController.swift; sourceTree = "<group>"; };
+		9F149E2625C0590A00F0BBD8 /* TableViewer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewer.swift; sourceTree = "<group>"; };
+		9F149E2725C0590A00F0BBD8 /* XmlParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XmlParser.swift; sourceTree = "<group>"; };
+		9F149E2825C0590A00F0BBD8 /* GithubTool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GithubTool.swift; sourceTree = "<group>"; };
+		9F149E2E25C0591500F0BBD8 /* XmlCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XmlCell.swift; sourceTree = "<group>"; };
+		9F77040625889F4200EB1D38 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		9F77040925889FDD00EB1D38 /* Input1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Input1ViewController.swift; sourceTree = "<group>"; };
+		9FDEB39F25C160D300539B96 /* XmlpParser2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XmlpParser2.swift; sourceTree = "<group>"; };
+		9FE7178A257E9668005279D5 /* ShowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowViewController.swift; sourceTree = "<group>"; };
+		9FEA3A31257709DE00DA36AA /* ScanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanViewController.swift; sourceTree = "<group>"; };
+		9FF883D725C563A200E97D7F /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		B8AE7549A2472F11C9D46447 /* SampleCode.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = SampleCode.xcconfig; path = Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
+		C17E12BC981B62B3753B451B /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		C8C12A701F29277B00B011FE /* ViewController+ARSessionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+ARSessionDelegate.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -42,14 +60,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1488324B1EFC3EBF0043E0AB /* Additional View Controllers */ = {
-			isa = PBXGroup;
-			children = (
-				C41366B81EB80DD400EC054A /* StatusViewController.swift */,
-			);
-			path = "Additional View Controllers";
-			sourceTree = "<group>";
-		};
 		1488324C1EFC3ED00043E0AB /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -57,6 +67,7 @@
 				3929C4971E89EC2C00E00B60 /* Info.plist */,
 				3929C48F1E89EC2C00E00B60 /* Main.storyboard */,
 				39D8DC1A1E8ADAE600386B05 /* LaunchScreen.storyboard */,
+				9FF883D725C563A200E97D7F /* art.scnassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -83,11 +94,11 @@
 		3929C48A1E89EC2C00E00B60 /* ARKitImageDetection */ = {
 			isa = PBXGroup;
 			children = (
-				3929C48B1E89EC2C00E00B60 /* AppDelegate.swift */,
-				3929C48D1E89EC2C00E00B60 /* ViewController.swift */,
-				C8C12A701F29277B00B011FE /* ViewController+ARSessionDelegate.swift */,
-				1488324B1EFC3EBF0043E0AB /* Additional View Controllers */,
+				9F77040625889F4200EB1D38 /* HomeViewController.swift */,
+				9F77040D2588A76B00EB1D38 /* VC_Input */,
+				9F77040C2588A74E00EB1D38 /* VC_Output */,
 				1488324C1EFC3ED00043E0AB /* Resources */,
+				3929C48B1E89EC2C00E00B60 /* AppDelegate.swift */,
 			);
 			path = ARKitImageDetection;
 			sourceTree = "<group>";
@@ -105,8 +116,47 @@
 			children = (
 				C17E12BC981B62B3753B451B /* LICENSE.txt */,
 			);
-			name = LICENSE;
 			path = LICENSE;
+			sourceTree = "<group>";
+		};
+		9F149E3125C081A300F0BBD8 /* extVC */ = {
+			isa = PBXGroup;
+			children = (
+				C8C12A701F29277B00B011FE /* ViewController+ARSessionDelegate.swift */,
+				9FDEB39F25C160D300539B96 /* XmlpParser2.swift */,
+			);
+			path = extVC;
+			sourceTree = "<group>";
+		};
+		9F77040C2588A74E00EB1D38 /* VC_Output */ = {
+			isa = PBXGroup;
+			children = (
+				9FE7178A257E9668005279D5 /* ShowViewController.swift */,
+				3929C48D1E89EC2C00E00B60 /* ViewController.swift */,
+				9F149E3125C081A300F0BBD8 /* extVC */,
+				9FEA3A31257709DE00DA36AA /* ScanViewController.swift */,
+			);
+			path = VC_Output;
+			sourceTree = "<group>";
+		};
+		9F77040D2588A76B00EB1D38 /* VC_Input */ = {
+			isa = PBXGroup;
+			children = (
+				9F77040925889FDD00EB1D38 /* Input1ViewController.swift */,
+				9F149E2E25C0591500F0BBD8 /* XmlCell.swift */,
+				9FD092C925B804E500D3D2E1 /* extVC */,
+			);
+			path = VC_Input;
+			sourceTree = "<group>";
+		};
+		9FD092C925B804E500D3D2E1 /* extVC */ = {
+			isa = PBXGroup;
+			children = (
+				9F149E2825C0590A00F0BBD8 /* GithubTool.swift */,
+				9F149E2625C0590A00F0BBD8 /* TableViewer.swift */,
+				9F149E2725C0590A00F0BBD8 /* XmlParser.swift */,
+			);
+			path = extVC;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,11 +186,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
-				LastUpgradeCheck = 1000;
+				LastUpgradeCheck = 1220;
 				ORGANIZATIONNAME = Apple;
 				TargetAttributes = {
 					3929C4871E89EC2C00E00B60 = {
 						CreatedOnToolsVersion = 9.0;
+						DevelopmentTeam = 3XP2M87J6G;
 						LastSwiftMigration = 1140;
 						ProvisioningStyle = Automatic;
 					};
@@ -170,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				39D8DC1B1E8ADAE600386B05 /* LaunchScreen.storyboard in Resources */,
+				9FF883D825C563A200E97D7F /* art.scnassets in Resources */,
 				3929C4931E89EC2C00E00B60 /* Assets.xcassets in Resources */,
 				3929C4911E89EC2C00E00B60 /* Main.storyboard in Resources */,
 			);
@@ -182,10 +234,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F149E2A25C0590A00F0BBD8 /* XmlParser.swift in Sources */,
+				9F149E2925C0590A00F0BBD8 /* TableViewer.swift in Sources */,
 				3929C48E1E89EC2C00E00B60 /* ViewController.swift in Sources */,
-				C41366B91EB80DD400EC054A /* StatusViewController.swift in Sources */,
+				9F149E2B25C0590A00F0BBD8 /* GithubTool.swift in Sources */,
+				9FEA3A32257709DE00DA36AA /* ScanViewController.swift in Sources */,
 				C8C12A711F29277B00B011FE /* ViewController+ARSessionDelegate.swift in Sources */,
 				3929C48C1E89EC2C00E00B60 /* AppDelegate.swift in Sources */,
+				9FE7178B257E9668005279D5 /* ShowViewController.swift in Sources */,
+				9FDEB3A025C160D300539B96 /* XmlpParser2.swift in Sources */,
+				9F77040725889F4200EB1D38 /* HomeViewController.swift in Sources */,
+				9F77040A25889FDD00EB1D38 /* Input1ViewController.swift in Sources */,
+				9F149E2F25C0591500F0BBD8 /* XmlCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -230,6 +290,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -254,7 +315,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -290,6 +351,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -308,7 +370,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -326,7 +388,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3XP2M87J6G;
 				INFOPLIST_FILE = "$(SRCROOT)/ARKitImageDetection/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.arkit-image-detection${SAMPLE_CODE_DISAMBIGUATOR}";
@@ -346,7 +408,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3XP2M87J6G;
 				INFOPLIST_FILE = "$(SRCROOT)/ARKitImageDetection/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.arkit-image-detection${SAMPLE_CODE_DISAMBIGUATOR}";
