@@ -12,7 +12,7 @@ As the picture above illustrates, this app contains two main functions: 1) proce
 
 [Figure 1: Architecture]
 
-![meth](https://user-images.githubusercontent.com/33033138/111023480-907a2d00-83d9-11eb-8ec6-6b304272be7a.png)
+<img width="600" alt="archimage" src="https://user-images.githubusercontent.com/33033138/111023480-907a2d00-83d9-11eb-8ec6-6b304272be7a.png">
 
 
 [Figure 2: Screen shots of the app]
