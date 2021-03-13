@@ -9,6 +9,7 @@ On the basis of a damage identification with acceptable costs BIM-SIS enables a 
 ## App architecture
 
 [Architecture]
+
 ![meth](https://user-images.githubusercontent.com/33033138/111023480-907a2d00-83d9-11eb-8ec6-6b304272be7a.png)
 
 As the picture above illustrates, this app contains two main functions:
