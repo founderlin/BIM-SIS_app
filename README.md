@@ -16,7 +16,8 @@ As the picture above illustrates, this app contains two main functions: 1) proce
 
 
 [Figure 2: Screen shots of the app]
-<img width="1218" alt="appimage" src="https://user-images.githubusercontent.com/33033138/111023844-9113c300-83db-11eb-81cf-a9c3f558ecdf.png">
+
+<img width="800" alt="appimage" src="https://user-images.githubusercontent.com/33033138/111023844-9113c300-83db-11eb-81cf-a9c3f558ecdf.png">
 
 
 
