@@ -12,12 +12,12 @@ As the picture above illustrates, this app contains two main functions: 1) proce
 
 [Figure 1: Architecture]
 
-<img width="600" alt="archimage" src="https://user-images.githubusercontent.com/33033138/111023480-907a2d00-83d9-11eb-8ec6-6b304272be7a.png">
+<img width="300" alt="archimage" src="https://user-images.githubusercontent.com/33033138/111023480-907a2d00-83d9-11eb-8ec6-6b304272be7a.png">
 
 
 [Figure 2: Screen shots of the app]
 
-<img width="800" alt="appimage" src="https://user-images.githubusercontent.com/33033138/111023844-9113c300-83db-11eb-81cf-a9c3f558ecdf.png">
+<img width="500" alt="appimage" src="https://user-images.githubusercontent.com/33033138/111023844-9113c300-83db-11eb-81cf-a9c3f558ecdf.png">
 
 
 
