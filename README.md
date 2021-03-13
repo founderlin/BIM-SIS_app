@@ -19,6 +19,11 @@ As the picture above illustrates, this app contains two main functions: 1) proce
 
 <img width="500" alt="appimage" src="https://user-images.githubusercontent.com/33033138/111023844-9113c300-83db-11eb-81cf-a9c3f558ecdf.png">
 
+The attached QR-code can be used for test.
+
+![generate](https://user-images.githubusercontent.com/33033138/111023912-1b5c2700-83dc-11eb-9210-496348c018c2.jpeg)
+
+
 
 
 [1]:https://www.bim-sis.de/
